@@ -1,0 +1,91 @@
+{
+  "day_local": "Feria Sexta Hebdomadae XXXI per Annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Kyrie, eleison. Christe, eleison. Kyrie, eleison.",
+  "psalm_response": "Laetantes ibimus in domum Domini.",
+  "homily": "In vita cotidiana, saepe nos invenimus in angustiis quas non elegimus. Cogitate de hoc: interdum, in medio curarum, invenimus nos in loco ubi vires nostrae deficiunt. In Evangelio hodierno, audimus de dispensatore qui, accusatus de dissipatione bonorum, se in discrimine videt. 'Quid faciam?' rogat. Non est fortis ad fodiendum, et erubescit mendicare. In hoc momento, ille dispensator, quamvis improbus, consilium capit. Iesus nos invitat ad hanc prudentiam spectandam—non ad fraudem, sed ad sagacitatem qua filii lucis in hoc mundo agere debent.\n\nBenjamin Vo, noster Ben, erat puer qui hanc sagacitatem in se gerebat, sed non ad mundum, sed ad amorem. Meministisne illius passionis suae pro aëroplanis? Ben, cum de aëroportibus et de machinis, de illis Boeing 737, loquebatur, oculi eius micabant. Ille non solum spectabat; ille cogitabat, computabat, et aedificabat, sicut in illis codicibus quos pro 'Con Chim Airlines' in GitHub suo texebat. Ben erat puer qui, in sua aetate quindecim annorum, iam intellegebat mundum esse locum ubi res aedificandae sunt, ubi visio in rem convertenda est. Sed sub hac mente acuta erat cor tam mite, cor quod, cum avunculus suus William aegrotaret, sine mora seipsum offerebat. Ille non fregit, non cecidit, non desperavit; ille dixit se totum daturum esse. Haec est prudentia filiorum lucis: scire quid sit vere pretiosum.\n\nSed hodie, post quattuor menses, scio vos, Alan et Thao, et te, Ryan, sentire hanc absentiam sicut murum qui non descendit. Cum videtis cathedram vacuam, aut cum recordamini illius itineris in Europa, ubi Ben tam amanter aëroportus visitabat, sentitis hanc noctem quae non vult transire. Dolor non est umbra levis; dolor est pondus quod ossa perurit. Thao, cum in silentio noctis audis illum vocem, vel tu, Alan, cum frustra in somniis filium quaeris, sentitis hanc ariditatem. Et tu, Ryan frater carissime, qui cum Benjamin in itineribus mundi fuisti, sentis vacuum quod nemo alius implere potest. Audite me: non est peccatum flere. Ipse Iesus flevit ad sepulcrum Lazari. Dolor vester non est defectus fidei; est testimonium amoris immensi.\n\nSaepe, in hoc silentio gravissimo, quaestio quaedam tacita corda vestra vulnerat: 'Numquid potui plus facere? Numquid in me culpa est?' Thao, Alan, audite hanc matrem ecclesiam, audite hanc veritatem quam Christus ipse vobis offert: Vos estis innocentes. Sicut Dominus discipulis de caeco nato respondit, neque hic peccavit neque parentes eius. Infirmitas non est punitio, nec est defectus amoris vestri. Vos fuistis parentes qui omnem passum, omnem horam, iuxta Benjamin ambulastis cum fide et lacrimis. Non est in vobis culpa, nec est in vobis defectus. Deus non accusat vos, et vos debetis desinere vos ipsos accusare. Relaxate humeros vestros ab onere falsae accusationis. Recipite pacem quae omnem sensum superat. Amor vester fuit purus, et in conspectu Dei nunquam interit.\n\nPaulus Apostolus, in lectione ad Philippenses, nos admonet: 'Nostra autem conversatio in caelis est, unde etiam Salvatorem exspectamus Dominum Iesum Christum.' Ben, in sua vita, hanc conversationem iam in caelis habebat. Non est Ben qui in tenebris errat; est Christus qui eum in domum Patris reduxit. Ben, in sua innocentia, noverat quod totum se dare est vera via ad convivium Dei. Non opus erat pecunia, sed opus erat corde, et cor Ben erat iam in manu Dei. Sicut ille puteus in Cà Mau—'Giếng Gioan Baotixita'—qui aquam vivam in nomine Ben pauperibus dat, ita amor vester pergit fluere, tacite, sine ostentatione, fructificans in saecula.\n\nAd te, Ryan, frater carissime: perge studere, perge ridere, perge vivere fortis. In tuo risu, in tuis studiis, in amore quo parentes tuos foves, Benjamin pergit in terra operari. Tu es pars illius historiae pulcherrimae. Memoria vestra non est carcer, sed fenestra aperta ad caelum. Si hodie quaeritis quid vobiscum portaetis extra hanc portam, capite hanc unam rem: certitudinem quod non estis derelicti. Cum redieritis domum, et videritis res eius, aut si forte recordamini illius ioci de 'Con Chim Airlines', nolite flere solum ex dolore. Subridete cum Ben. Dicite in silentio cordis: 'Pater, in manus tuas commendo spiritum eius.' Benjamin est in pace, in domo Patris, ubi nec luctus nec clamor est ultra. Ipse vos amat, et ipse vos custodit usque ad diem illum quo omnes iterum congregebimur. Non est onus quod non possitis ferre, quia Christus ipse portat illud vobiscum. Ipse est via, veritas, et vita. Benjamin in hac via ambulat, et vos in eadem via sequimini. Nolite timere, quia Dominus est vobiscum usque ad consummationem saeculi. Amen.",
+  "spiritual_communion": "Iesu mi, credo Te in Sanctissimo Sacramento praesentem. Te super omnia diligo et in anima mea Te desidero. Quoniam nunc Sacramentaliter Te suscipere non possum, veni saltem spiritualiter in cor meum. Tamquam iam veneris, Te complector et totum me Tibi unio; ne permittas me umquam a Te separari.",
+  "closing": "Benedicat vos omnipotens Deus, Pater, et Filius, et Spiritus Sanctus. Amen.",
+  "petition_call": "Oremus ad Dominum.",
+  "petition_response": "Te rogamus, audi nos.",
+  "labels": {
+    "opening": "Initium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Petitiones",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Benjamin Vo et omnibus fidelibus defunctis, ut in luce Christi requiescant.",
+    "Pro omnibus qui lugent, ut Deus eos consoletur et spem vivam in cordibus eorum renovet."
+  ],
+  "readings": [
+    {
+      "label": "Lectio Epistulae beati Pauli Apostoli ad Philippenses",
+      "cite": "Philippians 3:17—4:1",
+      "text": "Imitatores mei estote, fratres, et observate eos, qui ita ambulant, sicut habetis formam nos. Multi enim ambulant, quos saepe dicebam vobis, nunc autem et flens dico, inimicos crucis Christi; quorum finis interitus, quorum Deus venter est, et gloria in confusione ipsorum, qui terrena sapiunt. Nostra autem conversatio in caelis est, unde etiam Salvatorem exspectamus Dominum Iesum Christum, qui reformabit corpus humilitatis nostrae configuratum corpori claritatis suae, secundum operationem, qua possit etiam subicere sibi omnia. Itaque, fratres mei carissimi et desideratissimi, gaudium meum et corona mea, sic state in Domino, carissimi."
+    },
+    {
+      "label": "Psalmus Responsorius",
+      "cite": "Psalm 122:1-2, 3-4ab, 4cd-5",
+      "text": "Laetatus sum in his, quae dicta sunt mihi: 'In domum Domini ibimus.' Stantes iam sunt pedes nostri in portis tuis, Ierusalem. Ierusalem, quae aedificata est ut civitas, cuius participatio eius in idipsum. Illuc enim ascenderunt tribus, tribus Domini, testimonium Israel, ad confitendum nomini Domini. Quia illic sederunt sedes ad iudicium, sedes super domum David."
+    },
+    {
+      "label": "Lectio sancti Evangelii secundum Lucam",
+      "cite": "Luke 16:1-8",
+      "text": "Dicebat autem et ad discipulos suos: 'Homo quidam erat dives, qui habebat villicum; et hic diffamatus est apud illum, quasi dissipasset bona ipsius. Et vocavit illum et ait illi: Quid hoc audio de te? Redde rationem villicationis tuae; iam enim non poteris villicare. Ait autem villicus intra se: Quid faciam, quia dominus meus aufert a me villicationem? Fodere non valeo, mendicare erubesco. Scio quid faciam, ut, cum amotus fuero a villicatione, recipiant me in domos suas. Convocatis itaque singulis debitoribus domini sui, dicebat primo: Quantum debes domino meo? At ille dixit: Centum cados olei. Dixitque illi: Accipe cautionem tuam et, sede cito, scribe quinquaginta. Deinde alii dixit: Tu vero quantum debes? Qui ait: Centum coros tritici. Ait illi: Accipe litteras tuas et scribe octoginta. Et laudavit dominus villicum iniquitatis, quia prudenter egisset; quia filii huius saeculi prudentiores filiis lucis in generatione sua sunt.'"
+    }
+  ],
+  "day": "Friday of the Thirty-first Week in Ordinary Time",
+  "date": "2026-11-06",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "Hey Ben - mom and I have been missing you a lot.   Saw you a few times in my dreams last few weeks! Come and say hi daily okay?"
+    },
+    {
+      "name": "",
+      "text": "Thinking of you buddy! Stop by to say hello whenever you can okay? Love you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Been dreaming about you a lot. Hope you're having fun up in heaven. Please look after our family. Remember to come say hi daily. We miss you so much!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, nay anh M đi xử lý hồ sơ ở Cam Ranh, đi ngang qua Cam Ranh Airport. Rồi cuộc nói chuyện về máy bay của Ben lại ùa về, nhớ nhiều kỷ niệm về Ben lắm ( anh M sẽ giữ kín kakaka). Quỷ nhỏ, tự nhiên nghĩ về mày buồn dễ sợ. Hãy đi đến những nơi mà Ben muốn nha và đừng quên là luôn nhớ về gia đình mình nhé, thương em trai nhiều. Giá như !!!!!!!!!"
+    }
+  ]
+}
