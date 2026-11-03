@@ -1,0 +1,95 @@
+{
+  "day_local": "Memoria de San León Magno, Papa e Doutor da Igrexa",
+  "greeting": "No nome do Pai, e do Fillo, e do Espírito Santo. A paz e a graza de noso Señor Xesucristo estean con todos vós.",
+  "penitential": "Señor, ten piedade de nos.\nCristo, ten piedade de nos.\nSeñor, ten piedade de nos.",
+  "psalm_response": "A salvación dos xustos ven do Señor.",
+  "homily": "Hai unha imaxe, unha soa imaxe, que hoxe nos chama dende as páxinas da Escritura: o carballeiro ou o campo cultivado que agarda en silencio, e despois o servo que volve do traballo, coas mans duras polo arado, coas roupas cheas de po, esperando atopar un momento de respiro. Non é unha imaxe grandiosa. É o traballo de cada día, o esforzo invisible que ninguén aplaude, o camiñar pola terra cando o sol xa cae e as pernas pesan. No Evanxeo de hoxe, Xesús fálanos desa faísca de realidade: o servo que chega do campo, e o Señor que lle pide que sirva antes de sentarse a comer. E despois, esa frase que nos deixa en silencio: 'Cando fixéstedes todo o que vos mandaron, dicede: Somos servidores inúteis; fixemos o que tiñamos que facer'.\n\nDetémonos un momento. Cando pensamos na nosa propia vida, nas nosas propias perdas, a miúdo sentimos que levamos anos arando un campo que nunca dá o froito que esperabamos. Thao, Alan, Ryan, hoxe o Señor dille que a vosa dor non é un castigo nin o resultado dun erro. A veces a vida preséntase como un camiño escarpido onde nos sentimos esgotados, cargados cunha responsabilidade que nos supera. Non busquedes culpables na vosa propia alma. Non busquedes erros onde non os houbo. Hai dores na vida que chegan coma o vento da tarde, sen avisar, sen que ninguén puidese evitalos. Non é culpa vosa. A enfermidade, a ausencia, o misterio dunha vida nova que se apaga demasiado cedo, non son xustizas nin fallos humanos. Son o misterio máis profundo e doloroso deste mundo. Liberádevos desa carga innecesaria, porque Deus non vos acusa, e Ben tampouco.\n\nBenjamin Vo era un rapaz que entendía de esforzo, de traballo e de soños. Unha mente brillante, capaz de navegar pola lóxica, polas matemáticas avanzadas e polos mundos complexos da tecnoloxía e da nube dixital coa mesma soltura coa que un paxaro cruza o ceo. Lembro a paixón coa que soñaba coa súa imaxinaria 'Con Chim Airlines', esa compañía aérea dos paxaros que facía xurdiro un sorriso doce en calquera que o escoitase falar dela. Ben tiña esa curiosidade insaciable, pero por riba de todo, tiña un corazón dunha bondade marabillosa. Aquel xesto no que, con só quince anos, lle dixo aos seus pais que quería entregar todo o seu porquiño de aforros para axudar ao seu tío que sufría, sen romper nada, sen facer ruído, só ofrecendo todo o que tiña... iso revela quen era Benjamin. Unha alma pura, disposta a darse enteira.\n\nE no medio desta ausencia que pesa coma unha lousa, a palabra de San Paulo na primeira lectura dános unha luz nova: 'A graza de Deus apareceu, salvando a todos... ensinándonos a rexeitar a impiedade e a vivir con cordura, xustiza e devoción neste mundo, mentres agardamos a feliz esperanza'. Ben non se perdeu no baleiro. El agora forma parte desa ledicia eterna. A súa vida foi curta en anos, pero inmensa en amor. As viaxes que fixo coa súa familia, dende as grandes cidades do mundo ata os lugares santos, non foron en vain; foron os pasos dunha alma que buscaba o ceo.\n\nRyan, irmán querido, ti que compartiches con Ben os xogos, os proxectos, os momentos na rama dunha árbore no parque e os abrazos xunto á entrada da casa, non estás estás só. Ti es a testemuña viva da luz do teu irmán. Cando te sintas cansado, lembra que o teu irmán segue contigo no recordo, no amor e na oración. Non teñas medo de vivir a túa vida con ledicia, porque vivindo ti, tamén o fas vivir a el.\n\nComo levamos isto fóra desta porta hoxe? Non busquedes cambiar o mundo enteiro nun só día. Facede algo pequeno, silencioso, en nome de Benjamin: unha palabra amable, un xesto de axuda a quen o precisa, unha aperta sincera. Que cada acto de bondade sexa unha proba de que a luz deste rapaz nunca se apaga. O Señor ten a Ben na palma da súa man, e tenvos a vós tamén. Que a paz de Deus estea con vós hoxe e sempre.",
+  "petitions": [
+    "Polo noso querido Benjamin e por todos os que nos deixaron, para que gocen da luz eterna na presenza de Deus, roguemos ao Señor.",
+    "Por todos os que sofren a perda dun ser querido, especialmente os seus pais e o seu irmán, para que o Señor lles dea consuelo e esperanza, roguemos ao Señor."
+  ],
+  "spiritual_communion": "Creo, Xesús meu, que estás real e verdadeiramente no Santísimo Sacramento do Altar. Amo-te sobre todas as cousas e desexo ardentemente recibir-te na miña alma. Xa que agora non podo recibir-te sacramentalmente, ven ao menos espiritualmente ao meu corazón. Quedo unido a Ti coma se xa estiveses connosco; non permitas que me aparte nunca de Ti.",
+  "closing": "A bendición de Deus todopoderoso, Pai, Fillo e Espírito Santo, desfaise sobre vós e permaneza para sempre. Amén.",
+  "petition_call": "Roguemos ao Señor.",
+  "petition_response": "Senhor, escóitanos e ten piedade.",
+  "labels": {
+    "opening": "Abertura",
+    "penitential": "Acto Penitencial",
+    "word": "Liturxia da Palabra",
+    "homily": "Homilia",
+    "petitions": "Preces",
+    "communion": "Comuñón Espiritual",
+    "closing": "Bendición e Despedida"
+  },
+  "standing_petitions": [
+    "Polo noso querido Ben e por todos os que nos deixaron, para que descansen na luz de Cristo.",
+    "Por todos os que sofren e choran, para que Deus os console e lles dea esperanza."
+  ],
+  "readings": [
+    {
+      "label": "Primeira Lectura",
+      "cite": "Tito 2:1-8, 11-14",
+      "text": "Estimado: Ti di o que é conforme á sa doutrina: que os vós sexan sobrios, dignos, sensatos, sans na fe, no amor, na paciencia; do mesmo xeito, que as mulleres maiores sexan reverentes no seu comportamento, non calumniadoras, non escravas do moito viño, mestras do bo, para que ensinen ás mozas a amar aos seus maridos e aos seus fillos, a ser sensatas, castas, coidadoras do fogar, bondadeiras, subisas aos seus maridos, para que a palabra de Deus non sexa desacreditada. Exhorta tamén aos mozos a que sexan sensatos, amósate en todo como modelo de boas obras, con incorrupción na ensinanza, dignidade, linguaxe sa e irreprochable, para que o adversario quede avergonzado, non tendo nada malo que dicir de nós. Porque a graza de Deus apareceu para salvación de todos os homes, ensinándonos a rexeitar a impiedade e os desexos mundanos, e a vivir neste mundo con sensatez, xustiza e piedade, mentres agardamos a feliz esperanza e a manifestación da gloria do noso gran Deus e Salvador Xesucristo, que se entregou a si mesmo por nós para redimirnos de toda iniquidade e purificar para si un pobo propio, elixido para as boas obras."
+    },
+    {
+      "label": "Salmo Responsorial",
+      "cite": "Salmo 37:3-4, 18 e 23, 27 e 29",
+      "text": "R. A salvación dos xustos ven do Señor.\nConfía no Señor e fai o ben, habita na terra e apasiónate pola fidelidade.\nPon o teu delicio no Señor, e El daráche as peticións do teu corazón.\nR. A salvación dos xustos ven do Señor.\nO Señor coñece os días dos integrais, e a súa herdanza será eterna.\nO Señor guía os pasos do home e comprazase no seu camiño.\nR. A salvación dos xustos ven do Señor.\nAparta do mal e fai o ben, e habitarás para sempre;\nporque o Señor ama a xustiza e non abandona os seus fieis.\nR. A salvación dos xustos ven do Señor."
+    },
+    {
+      "label": "Evanxeo",
+      "cite": "Lucas 17:7-10",
+      "text": "Nese tempo, dixo Xesús: «Quen de vós, se ten un servo que arza ou apascoa o gando, lle di cando volve do campo: \"Entra logo e pon á mesa\"? Non lle dirá máis ben: \"Prepara a cea, cínguete e sírveme ata que coma e beba, e despois comerás e beberás ti\"? Acaso queda agradecido ao servo porque fixo o mandado? Así vós tamén, cando fixéstedes todo o que vos mandaron, dicede: \"Somos servidores inúteis; fixemos o que tiñamos que facer\"»."
+    }
+  ],
+  "day": "Memorial of Saint Leo the Great, Pope and Doctor of the Church",
+  "date": "2026-11-10",
+  "lang": "gl",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Nha Trang, ngày 31/10/2026, anh Minh suy nghĩ về Ben rất nhiều. Nhớ và thương em!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - mom and I have been missing you a lot.   Saw you a few times in my dreams last few weeks! Come and say hi daily okay?"
+    },
+    {
+      "name": "",
+      "text": "Thinking of you buddy! Stop by to say hello whenever you can okay? Love you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Been dreaming about you a lot. Hope you're having fun up in heaven. Please look after our family. Remember to come say hi daily. We miss you so much!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    }
+  ]
+}
