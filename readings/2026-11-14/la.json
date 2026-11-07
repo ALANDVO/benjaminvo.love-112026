@@ -1,0 +1,91 @@
+{
+  "day_local": "Sabbato in XXXII Hebdomada per Annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Amen. Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Kyrie, eleison. Christe, eleison. Kyrie, eleison.",
+  "psalm_response": "Beatus vir qui timet Dominum.",
+  "homily": "Videte, fratres et sorores, hunc puerum in pictura: Benjamin Vo. Considerate non solum faciem eius, sed illam curiositatem in oculis, illam lucem quae in mente eius ardebat. Ben erat puer qui mundum non solum spectabat, sed intellegere volebat. Meministisne eum in museo, anno bis millesimo vigesimo, cum staret iuxta capsulam spatialem, binoculis circum collum? Non erat iocus. Erat explorator. Erat puer qui, in aetate novem annorum, iam cognoverat mundum esse locum mirabilem, locum qui exploratione et amore indigebat. Ben erat architectus, erat logicus, erat ille qui in GitHub codices suos texebat ut machinas vivas redderet. Sed supra omnia, erat filius amans. \n\nIn Evangelio hodierno, Iesus nobis parabolam narrat de vidua et iudice iniquo. Iesus nos monet ut oremus 'semper et non deficiamus'. Sed quid est haec oratio, nisi clamor cordis? Vidua illa non habebat potentiam, non habebat divitias, non habebat amicos in curia. Habebat tantum desiderium iustitiae, et habebat vocem suam. Et Iesus dicit: 'Numquid Deus non faciet vindictam electorum suorum clamantium ad se die ac nocte?' \n\nAlan, Thao, Ryan—scio vos sentire hanc absentiam sicut silentium quod nullus sonus frangere potest. Post quinque menses, cum videtis cathedram vacuam, aut cum recordamini illius itineris in Europa ubi Ben cum tali studio aëroportus visitabat, sentitis noctem quae non vult transire. Dolor vester non est defectus fidei; est testimonium amoris immensi. Vos dedistis omnia, et nunc silentium est durum. Interdum, in silentio noctis, vox quaedam tacita et acerba vos accusat: 'Numquid potui plus facere? Numquid in me culpa est?' Audite hanc veritatem matris ecclesiae: vos estis innocentes. Infirmitas non est punitio, nec est defectus amoris vestri. Deus non accusat vos, et vos debetis desinere vos ipsos accusare. Relaxate humeros vestros ab onere falsae accusationis. Recipite pacem quae omnem sensum superat. \n\nBen, in sua innocentia, noverat quid significaret 'orare semper'. Non per verba tantum, sed per vitam. Meministisne cum Ben, in sua iuventute, avunculo suo William, qui aegrotabat, totum suum 'piggy bank' offerre voluit? Non fregit capsulam, non nummos effudit, sed simplici et candido corde obtulit totum quod habebat. Haec oblatio non erat actus pecuniarius; erat actus cordis. Ben noverat quod totum se dare est vera via ad regnum Dei. Ben non quaesivit quid sibi restaret; quaesivit tantum quomodo posset amare. Hoc est cor quod in 'Banquet of Heaven' nunc requiescit. \n\nSicut vidua in Evangelio, vos clamatis ad Deum. Et Deus audit. Deus non est iudex iniquus qui dormit. Deus est Pater qui vos tenet. Cum Alan somniat Ben, sanum et fortem, stantem ad portam, hoc non est somnium vanum. Hoc est lumen quod in tenebras vestras penetrat. Ben transit per portas aeternitatis in lucem indeficientem. Ipse non est in tenebris, sed in luce. Ipse est in 'shadow of wings' Domini. \n\nAd te, Ryan frater carissime, qui cum Ben tantum spatii et gaudii teilisti: perge vivere, perge ridere, perge ferre memoriam fratris tui in corde puro. In tuo risu et in tuis laboribus, Benjamin pergit in terra operari. Et per illum puteum in Cà Mau—'Giếng Gioan Baotixita'—qui aquam vivam in nomine Ben pauperibus dat, amor vester pergit fluere, tacite, fructificans in saecula. Hoc est opus vestrum: vivere, amare, et ferre crucem cum spe. \n\nNolite timere, quia Dominus est vobiscum usque ad consummationem saeculi. Benjamin in hac via ambulat, et vos in eadem via sequimini. Cum redieritis domum, et videritis res eius, aut si forte recordamini illius ioci de 'Con Chim Airlines', nolite flere solum ex dolore. Subridete cum Ben. Dicite in silentio cordis: 'Pater, in manus tuas commendo spiritum eius.' Benjamin est in pace, in domo Patris, ubi nec luctus nec clamor est ultra. Ipse vos amat, et ipse vos custodit usque ad diem illum quo omnes iterum congregebimur. Non est onus quod non possitis ferre, quia Christus ipse portat illud vobiscum. Ipse est via, veritas, et vita. Amen.",
+  "spiritual_communion": "Iesu mi, credo Te in Sanctissimo Sacramento praesentem. Te super omnia diligo et in anima mea Te desidero. Quoniam nunc Te sacramentaliter accipere non possum, veni saltem spiritualiter in cor meum. Te tamquam iam advenisse complector et totum me Tibi unio; ne permittas me a Te umquam separari. Amen.",
+  "closing": "Benedicat vos omnipotens Deus, Pater, et Filius, et Spiritus Sanctus. Amen. Ite in pace, in spe Christi viventes.",
+  "petition_call": "Oremus ad Dominum.",
+  "petition_response": "Domine, exaudi nos.",
+  "labels": {
+    "opening": "Exordium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Preces Fidelium",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Benjamin Vo et omnibus qui nos praecesserunt in fide, ut in luce Christi aeternaliter requiescant, oremus ad Dominum.",
+    "Pro omnibus qui maerent et crucem doloris portant, ut Deus eos consoletur et spem vivam in cordibus eorum infundat, oremus ad Dominum."
+  ],
+  "readings": [
+    {
+      "label": "Lectio Prima",
+      "cite": "3 Ioannis 5-8",
+      "text": "Carissime, fideliter agis, quidquid operaris in fratres, et hoc in peregrinos, qui testimonium reddiderunt caritati tuae in conspectu ecclesiae; quos benefaciens deduces digne Deo. Pro nomine enim profecti sunt, nihil accipientes a gentibus. Nos ergo debemus suscipere huiusmodi, ut cooperatores simus veritatis."
+    },
+    {
+      "label": "Psalmus Responsorius",
+      "cite": "Psalmus 112:1-2, 3-4, 5-6",
+      "text": "Beatus vir, qui timet Dominum, in mandatis eius volet nimis. Potens in terra erit semen eius; generatio rectorum benedicetur. Gloria et divitiae in domo eius, et iustitia eius manet in saeculum saeculi. Exortum est in tenebris lumen rectis, misericors et miserator et iustus. Iucundus homo, qui miseretur et commodat; disponet sermones suos in iudicio. In memoria aeterna erit iustus."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Lucas 18:1-8",
+      "text": "In illo tempore: Dicebat Iesus parabolam ad illos, quoniam oportet semper orare et non deficere, dicens: 'Iudex quidam erat in quadam civitate, qui Deum non timebat et hominem non reverebatur. Vidua autem erat in civitate illa, et veniebat ad eum dicens: Vindica me de adversario meo. Et nolebat per multum tempus. Post haec autem dixit intra se: Etsi Deum non timeo nec hominem revereor, tamen, quia molesta est mihi haec vidua, vindicabo illam, ne in novissimo veniens suggillet me.' Ait autem Dominus: 'Audite, quid iudex iniquitatis dicit. Deus autem non faciet vindictam electorum suorum clamantium ad se die ac nocte, et patientiam habebit in illis? Dico vobis: cito faciet vindictam illorum. Verumtamen Filius hominis veniens, putas, inveniet fidem in terra?'"
+    }
+  ],
+  "day": "Saturday of the Thirty-second Week in Ordinary Time",
+  "date": "2026-11-14",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Nha Trang, ngày 31/10/2026, anh Minh suy nghĩ về Ben rất nhiều. Nhớ và thương em!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - mom and I have been missing you a lot.   Saw you a few times in my dreams last few weeks! Come and say hi daily okay?"
+    },
+    {
+      "name": "",
+      "text": "Thinking of you buddy! Stop by to say hello whenever you can okay? Love you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Been dreaming about you a lot. Hope you're having fun up in heaven. Please look after our family. Remember to come say hi daily. We miss you so much!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    }
+  ]
+}
