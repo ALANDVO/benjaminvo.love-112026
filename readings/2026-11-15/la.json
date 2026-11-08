@@ -1,0 +1,96 @@
+{
+  "day_local": "Dominica XXXIII per Annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Amen. Gratia vobis et pax a Deo Patre nostro et Domino Iesu Christo.",
+  "penitential": "Kyrie, eleison. Christe, eleison. Kyrie, eleison.",
+  "psalm_response": "Beati omnes qui timent Dominum.",
+  "homily": "In lectione hodierna, audimus de muliere forti, cuius pretium longe ultra margaritas aestimatur. Scriptura dicit: 'Manum suam aperuit inopi, et palmas suas extendit ad pauperem.' Haec imago manus—manus quae laborat, manus quae donat, manus quae sustentat—est clavis ad intellegendum vitam Benjamin Vo. Cogitate, fratres et sorores, de manibus pueri. Non solum de manibus quae codices in GitHub texebant, aut de manibus quae aëroplana in caelo imaginabantur, sed de manibus quae, in corde suo, totum se offerre volebant. Meministisne? Ben, quindecim annorum, voluit totum suum 'piggy bank' avunculo suo William offerre, qui aegrotabat. Non fregit, non effudit, non iactavit se. Simpliciter obtulit. Hoc est cor quod Deum timet, cor quod in inopiam alterius se infundit.\n\nScio, post quinque menses, vos, Alan, Thao, et Ryan, sentire hanc absentiam sicut silentium quod nullus sonus frangere potest. Cum videtis vestigia eius in domo, vel cum cogitatis de illis momentis in aëroportibus ubi Ben cum patre suo stabat, sentitis hanc noctem. Sed audite me: dolor vester non est defectus fidei; est testimonium amoris immensi. Vos dedistis omnia, et nunc silentium est durum. Interdum, in silentio noctis, vox quaedam tacita et acerba vos accusat: 'Numquid potui plus facere? Numquid in me culpa est?' Audite hanc veritatem matris ecclesiae: vos estis innocentes. Infirmitas non est punitio, nec est defectus amoris vestri. Deus non accusat vos, et vos debetis desinere vos ipsos accusare. Relaxate humeros vestros ab onere falsae accusationis. Recipite pacem quae omnem sensum superat.\n\nIn Evangelio, Iesus narrat de talentis. Dominus tradit bona sua servis, unicuique secundum propriam virtutem. Unus servus, timidus et iners, talentum suum in terra abscondit. Timet dominum, timet periculum, timet vitam ipsam. Sed quid est talentum, nisi ipsa vita quam Deus nobis donat? Ben non abscondit talentum suum. Etsi vita eius brevis fuit, ipse eam multiplicavit per curiositatem, per amorem, per illam 'Con Chim Airlines' de qua cum risu loquebatur. Ben non timuit vitam, quamvis sciret eam fragilem esse. Ipse, in brevi tempore, totum se consumpsit in amore erga vos, erga Ryan, erga mundum. Ipse non sepelivit talentum suum in terra; ipse illud in caelum transtulit.\n\nRyan, frater carissime, scio te sentire hanc vacuam sedem ad mensam. Sed memento: Ben tecum est in spiritu. Sicut in somnio tuo, ubi vos ambo in 'roller coaster' ascendistis, vita vestra est iter commune. Noli timere vivere, noli timere ridere. In tuo risu, in tuis studiis, in tua caritate, Benjamin pergit in terra operari. Et per illum puteum in Cà Mau, qui aquam vivam in nomine Ben pauperibus dat, amor vester pergit fluere, tacite, fructificans in saecula.\n\nBen nunc videt faciem Dei. Ipse est in 'Banquet of Heaven.' Ipse, qui tam curiosus de aërodynamica et de caelo erat, nunc in ipso caelo habitat. Sicut in somnio patris, ubi Ben, sanus et fortis, stabat ad portam et dicebat se optime valere, sic Benjamin transit per portas aeternitatis in lucem indeficientem. Ipse non est in tenebris, sed in luce. Ipse est in 'shadow of wings' Domini.\n\nSi hodie quaeritis quid vobiscum portaetis extra hanc portam, capite hanc unam rem: certitudinem quod non estis derelicti. Cum redieritis domum, et videritis res eius, aut si forte recordamini illius ioci de 'Con Chim Airlines', nolite flere solum ex dolore. Subridete cum Ben. Dicite in silentio cordis: 'Pater, in manus tuas commendo spiritum eius.' Benjamin est in pace, in domo Patris, ubi nec luctus nec clamor est ultra. Ipse vos amat, et ipse vos custodit usque ad diem illum quo omnes iterum congregebimur. Non est onus quod non possitis ferre, quia Christus ipse portat illud vobiscum. Ipse est via, veritas, et vita. Benjamin in hac via ambulat, et vos in eadem via sequimini. Nolite timere, quia Dominus est vobiscum usque ad consummationem saeculi. Amen.",
+  "spiritual_communion": "Ad te venio, Domine Iesu Christe, et te in corde meo suscipere desidero. Quoniam nunc te sacramentaliter sumere non possum, veni ad me spiritualiter in corde meo, et manere in me dignare, ut ego in te maneam semper. Amen.",
+  "closing": "Dominus vos benedicat et custodiat. In nomine Patris, et Filii, et Spiritus Sancti. Amen.",
+  "petition_call": "Rogamus te, Domine.",
+  "petition_response": "Exaudi nos, Domine.",
+  "labels": {
+    "opening": "Initium",
+    "penitential": "Actus Poenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Praedicatio",
+    "petitions": "Orationes Fidelium",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Benjamin Vo et omnibus fidelibus defunctis, ut in luce Christi requiescant.",
+    "Pro omnibus qui lugent, ut Deus eos consoletur et spem vivam eis donet."
+  ],
+  "readings": [
+    {
+      "label": "Lectio prima",
+      "cite": "Proverbs 31:10-13, 19-20, 30-31",
+      "text": "Mulierem fortem quis inveniet? Procul et de ultimis finibus pretium eius. Confidit in ea cor viri sui, et spoliis non indigebit. Reddet ei bonum et non malum, omnibus diebus vitae suae. Quaesivit lanam et linum, et operata est consilio manuum suarum. Manum suam misit ad fortia, et digiti eius apprehenderunt fusum. Manum suam aperuit inopi, et palmas suas extendit ad pauperem. Fallax gratia, et vana est pulchritudo; mulier timens Dominum, ipsa laudabitur. Date ei de fructu manuum suarum, et laudent eam in portis opera eius."
+    },
+    {
+      "label": "Psalmus responsorius",
+      "cite": "Psalm 128:1-2, 3, 4-5",
+      "text": "Beati omnes qui timent Dominum, qui ambulant in viis eius! Labores manuum tuarum quia manducabis, beatus es, et bene tibi erit. Uxor tua sicut vitis abundans in lateribus domus tuae; filii tui sicut novellae olivarum in circuitu mensae tuae. Ecce sic benedicetur homo qui timet Dominum. Benedicat tibi Dominus ex Sion, et videas bona Ierusalem omnibus diebus vitae tuae."
+    },
+    {
+      "label": "Lectio secunda",
+      "cite": "1 Thessalonians 5:1-6",
+      "text": "De temporibus autem et momentis, fratres, non indigetis ut scribatur vobis. Ipsi enim diligenter scitis quia dies Domini sicut fur in nocte, ita veniet. Cum enim dixerint: 'Pax et securitas', tunc repentinus eis superveniet interitus, sicut dolor praegnati in utero, et non effugient. Vos autem, fratres, non estis in tenebris, ut vos dies ille tamquam fur comprehendat. Omnes enim vos filii lucis estis et filii diei; non sumus noctis neque tenebrarum. Igitur non dormiamus sicut ceteri, sed vigilemus et sobrii simus."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Matthew 25:14-30",
+      "text": "In illo tempore, dixit Iesus discipulis suis parabolam hanc: 'Homo proficiscens vocavit servos suos et tradidit illis bona sua, et uni dedit quinque talenta, alii autem duo, alii vero unum, unicuique secundum propriam virtutem, et profectus est statim. Abiit autem, qui quinque talenta acceperat, et operatus est in eis et lucratus est alia quinque; similiter et qui duo acceperat, lucratus est alia duo. Qui autem unum acceperat, abiens fodit in terram et abscondit pecuniam domini sui. Post multum autem temporis venit dominus servorum illorum et posuit rationem cum eis. Et accedens, qui quinque talenta acceperat, obtulit alia quinque talenta dicens: Domine, quinque talenta tradidisti mihi; ecce alia quinque superlucratus sum. Ait illi dominus eius: Euge, serve bone et fidelis, quia super pauca fuisti fidelis, supra multa te constituam; intra in gaudium domini tui. Accessit autem et qui duo talenta acceperat et ait: Domine, duo talenta tradidisti mihi; ecce alia duo lucratus sum. Ait illi dominus eius: Euge, serve bone et fidelis, quia super pauca fuisti fidelis, supra multa te constituam; intra in gaudium domini tui. Accedens autem et qui unum talentum acceperat, ait: Domine, scio quia homo durus es, metis ubi non seminasti et congregas ubi non sparsisti; et timens abii et abscondi talentum tuum in terra; ecce habes quod tuum est. Respondens autem dominus eius dixit ei: Serve nequam et piger, sciebas quia meto ubi non seminavi et congrego ubi non sparsi? Oportuit ergo te mittere pecuniam meam nummulariis, et veniens ego utique recepissem quod meum est cum usura. Tollite itaque ab eo talentum et date ei, qui habet decem talenta. Omni enim habenti dabitur et abundabit; ei autem, qui non habet, et quod videtur habere, auferetur ab eo. Et inutilem servum eicite in tenebras exteriores; illic erit fletus et stridor dentium.'"
+    }
+  ],
+  "day": "Thirty-third Sunday in Ordinary Time",
+  "date": "2026-11-15",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "",
+      "text": "Nha Trang, ngày 31/10/2026, anh Minh suy nghĩ về Ben rất nhiều. Nhớ và thương em!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - mom and I have been missing you a lot.   Saw you a few times in my dreams last few weeks! Come and say hi daily okay?"
+    },
+    {
+      "name": "",
+      "text": "Thinking of you buddy! Stop by to say hello whenever you can okay? Love you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Been dreaming about you a lot. Hope you're having fun up in heaven. Please look after our family. Remember to come say hi daily. We miss you so much!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Today marks 100 days without you. Miss you a whole a lot Ben. Feel free to visit any time! See you around buddy! Love you!"
+    }
+  ]
+}
