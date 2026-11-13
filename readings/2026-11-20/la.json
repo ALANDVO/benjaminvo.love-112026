@@ -1,0 +1,91 @@
+{
+  "day_local": "Feria Sexta Hebdomadae XXXIII per Annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Pax vobis, fratres et sorores, in hoc die quo convenimus ut verbum Dei audiamus.",
+  "penitential": "Kyrie, eleison.\nChriste, eleison.\nKyrie, eleison.",
+  "psalm_response": "Quam dulcia palato meo eloquia tua, Domine!",
+  "homily": "Videte, fratres et sorores, hunc puerum in memoria nostra: Benjamin Vo. Non cogitate de fine eius, sed de initio et medio, de illo ardore qui in oculis eius lucebat. Cogitate de puero qui non solum aëroplana spectabat, sed ea intellegere volebat, qui in GitHub codices texebat quasi mundum novum aedificaret. Ben erat explorator. Erat ille puer qui, cum patre suo Alan, in aëroportibus mundi stabat, non ut viator otiosus, sed ut discipulus caeli. Illa curiositas, illa 'Con Chim Airlines' de qua cum risu loquebatur, non erat nugatio; erat imago animae quae ad altiora tendebat. Ben noverat quod vita est iter, et ipse in hoc itinere non timuit quaerere, non timuit scire.\n\nIn lectione Apocalypsis hodie, Iohannes accipit mandatum: «Accipe librum et devora illum.» Audite bene: «In ore tuo erit dulce sicut mel, sed in ventre tuo amaricabit.» Haec est veritas vitae nostrae. Verba Dei, promissiones Domini, sunt nobis sicut mel. Quam dulcia sunt! Quam delectabile est scire nos amari, scire nos in aeternum in manibus Dei esse. Sed cum hoc verbum in viscera nostra descendit, cum illud in carne nostra experimur, amaritudo oritur. Est amaritudo absentiae, est amaritudo vacuae sedis ad mensam, est amaritudo doloris quem nullus sermo potest tollere. Vos, Alan et Thao, vos scitis hanc amaritudinem. Post quinque menses, cum nox ruit, cum silentium domus vos opprimit, sentitis hanc amaritudinem in ventre vestro. Sed nolite timere: haec amaritudo non est signum defectus, sed signum veritatis. Vos devorastis librum amoris, et amor, cum verus est, secum fert crucem.\n\nInterdum, in tenebris noctis, vox quaedam tacita et acerba vos accusat: 'Numquid potui plus facere? Numquid in me culpa est?' Audite hanc veritatem matris Ecclesiae: vos estis innocentes. Infirmitas non est punitio, nec est defectus amoris vestri. Deus non accusat vos, et vos debetis desinere vos ipsos accusare. Sicut Iesus coram caeco nato dixit, neque hic peccavit neque parentes eius, sic etiam vestrum cor est purum ab omni reatu. Deus non misit morbum; Deus non punit parentes. Relaxate humeros vestros ab onere falsae accusationis. Recipite pacem quae omnem sensum superat. Non est ulla negligentia in cura illa quam tam fideliter dedistis.\n\nIn Evangelio, Iesus intrat in templum et expellit vendentes. «Domus mea domus orationis est,» inquit, «vos autem fecistis eam speluncam latronum.» Iesus non tolerat ut locus sacratus, locus ubi Deus habitat, polluatur negotiis mundi. Cor vestrum, Alan et Thao, est templum. Dolor vester, quamvis amarus, est sacer. Nolite permittere ut culpa vel desperatio in hoc templo habitent. Iesus vult expellere omnem umbram, omnem accusationem, ut solus amor ibi maneat. Iesus sedet in templo cordis vestri, docens vos, sicut docuit turbas in Evangelio. Et populus, inquit Scriptura, «suspendebatur audiens eum.» Vos quoque, suspendite animas vestras in verba Christi. Non quaerite responsa in logica mundi; quaerite pacem in silentio Christi.\n\nRyan, frater carissime, scio te videre locum fratris tui et sentire vacuum quod nemo implere potest. Sed memento: Ben tecum est in spiritu. Sicut in illis nundinis ubi fratres una erant, perge ferre nomen et amorem fratris tui in mundo. Ben te amat, et in risu tuo, in labore tuo, in studio tuo, spiritus eius vivit. Noli timere vivere. Noli timere ridere. Perge in via tua, et scito fratrem tuum tecum ambulare in lumine Domini.\n\nSi hodie quaeritis quid vobiscum portaetis extra hanc portam, accipite hanc unam rem: certitudinem quod non estis derelicti. Cum redieritis domum, et videritis res eius, aut si forte recordamini illius ioci de 'Con Chim Airlines', nolite flere solum ex dolore. Subridete cum Ben. Dicite in silentio cordis: «Pater, in manus tuas commendo spiritum eius.» Benjamin est in pace, in domo Patris, ubi nec luctus nec clamor est ultra. Ipse vos amat, et ipse vos custodit usque ad diem illum quo omnes iterum congregebimur. Non est onus quod non possitis ferre, quia Christus ipse portat illud vobiscum. Ipse est via, veritas, et vita. Benjamin in hac via ambulat, et vos in eadem via sequimini. Nolite timere, quia Dominus est vobiscum usque ad consummationem saeculi. Amen.",
+  "spiritual_communion": "Ad te venio, Domine Iesu, etsi in Sacramento te non possum suscipere, veni ad me spiritu in cor meum. Amplexor te quasi iam venientem, et totum me tibi iungo; ne permittas me umquam a te separari.",
+  "closing": "Benedicat vos omnipotens Deus, Pater, et Filius, et Spiritus Sanctus. Amen.",
+  "petition_call": "Rogemus Dominum.",
+  "petition_response": "Te rogamus, audi nos.",
+  "labels": {
+    "opening": "Initium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Praedicatio",
+    "petitions": "Petitiones",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Benjamin Vo et omnibus qui decesserunt, ut in luce Christi requiescant.",
+    "Pro omnibus qui dolent, ut Deus eos consoletur et spem eis tribuat."
+  ],
+  "readings": [
+    {
+      "label": "Lectio prima",
+      "cite": "Revelation 10:8-11",
+      "text": "Ego, Ioannes, audivi vocem de caelo loquentem mecum. Et vox locuta est mihi et dixit: «Vade, accipe librum apertum de manu angeli stantis super mare et super terram.» Et abii ad angelum, dicens ei, ut daret mihi librum. Et dixit mihi: «Accipe et devora illum; et faciet amaricari ventrem tuum, sed in ore tuo erit dulce sicut mel.» Et accepi librum de manu angeli et devoravi illum; et erat in ore meo sicut mel dulce, et cum devorassem eum, amaricatus est venter meus. Et dixit mihi: «Oportet te iterum prophetare populis et gentibus et linguis et regibus multis.»"
+    },
+    {
+      "label": "Psalmus responsorius",
+      "cite": "Psalm 119:14, 24, 72, 103, 111, 131",
+      "text": "R. Quam dulcia palato meo eloquia tua, Domine! In via testimoniorum tuorum delector, sicut in omnibus divitiis. R. Quam dulcia palato meo eloquia tua, Domine! Nam testimonia tua delectatio mea, et consiliarii mei. R. Quam dulcia palato meo eloquia tua, Domine! Bonum mihi lex oris tui, super milia auri et argenti. R. Quam dulcia palato meo eloquia tua, Domine! Quam dulcia palato meo eloquia tua, super mel ori meo! R. Quam dulcia palato meo eloquia tua, Domine! Hereditas mea testimonia tua in aeternum, quia gaudium cordis mei sunt. R. Quam dulcia palato meo eloquia tua, Domine! Os meum aperui et attraxi spiritum, quia mandata tua desiderabam. R. Quam dulcia palato meo eloquia tua, Domine!"
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Luke 19:45-48",
+      "text": "Ingressus in templum, Iesus coepit eicere vendentes in eo, dicens illis: «Scriptum est: Domus mea domus orationis est; vos autem fecistis eam speluncam latronum.» Et erat docens cotidie in templo. Principes autem sacerdotum et scribae et primi populi quaerebant illum perdere, et non inveniebant quid facerent; omnis enim populus suspensus erat audiens illum."
+    }
+  ],
+  "day": "Friday of the Thirty-third Week in Ordinary Time",
+  "date": "2026-11-20",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "I miss you so much Ben! Ba má nhớ con rất nhiều mỗi ngày."
+    },
+    {
+      "name": "",
+      "text": "Nha Trang, ngày 31/10/2026, anh Minh suy nghĩ về Ben rất nhiều. Nhớ và thương em!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - mom and I have been missing you a lot.   Saw you a few times in my dreams last few weeks! Come and say hi daily okay?"
+    },
+    {
+      "name": "",
+      "text": "Thinking of you buddy! Stop by to say hello whenever you can okay? Love you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Been dreaming about you a lot. Hope you're having fun up in heaven. Please look after our family. Remember to come say hi daily. We miss you so much!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    }
+  ]
+}
