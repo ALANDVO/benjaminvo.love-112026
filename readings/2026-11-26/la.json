@@ -1,0 +1,86 @@
+{
+  "day_local": "Feria Quinta Hebdomadae XXXIV per Annum",
+  "greeting": "In nomine Patris, et Filii, et Spiritus Sancti. Amen. Pax vobis, fratres et sorores, in hac die qua Dominus nos invitat ad vigilandum et ad spem nostram in ipso ponendam.",
+  "penitential": "Kyrie, eleison. Christe, eleison. Kyrie, eleison.",
+  "psalm_response": "Erigite capita vestra, quoniam appropinquat redemptio vestra.",
+  "homily": "Statis in silentio, forsan in conclavi ubi umbrae vespertinae longiores fiunt, aut in via quadam ubi strepitus mundi videtur inanem sonum edere. In lectione Apocalypsis hodie, Iohannes vidit lapidem molarem in mare proiectum, symbolum ruinae Babylonis, illius civitatis quae in superbia sua confidebat. «No sound of the millstone will ever be heard in you again,» inquit angelus. Quae res tam firma videbatur, subito in profundum mergitur. Hoc est verum de mundanis omnibus. Sed in hac ruina, in hoc tumultu nationum de quo Iesus in Evangelio loquitur, non est finis noster. Est transitus. \n\nCogitate de Benjamin. Non de fine, sed de illa curiositate quae in eo vivebat sicut flamma in lucerna. Benjamin Vo erat puer qui mundum non ut labyrinthum, sed ut machinam mirabilem videbat. Meministis, Alan et Thao, quomodo in aëroportibus mundi stabat? Non erat viator qui tempus terit. Erat, in mente sua, architectus. Cum aëroplana 737 transvolarent, Ben non solum machinas videbat; videbat possibilitatem. Illud nomen, 'Con Chim Airlines', de quo cum risu et gaudio loquebatur, non erat nugatio. Erat imago animae quae ad caelum spectabat. Ben noverat quod aëroplana, sicut vita ipsa, ad altitudinem creata sunt. Ipse, in sua innocentia, in sua curiositate, iam in hoc itinere ad Patrem erat.\n\nIn Evangelio, Iesus nos monet: «When these signs begin to happen, stand erect and raise your heads.» Stand erect. Erigite capita. Hoc non est mandatum militare; est vocatio ad dignitatem filiorum Dei. Cum mundus conturbatur, cum mare fremit, cum cor vestrum, Ryan, Thao, Alan, sentit pondus absentiae, Dominus dicit: «State recti.» Non quia dolor non est verus, sed quia redemptio vestra non est in rebus quae cadunt, sed in Persona quae manet. \n\nSaepe, in silentio noctis, vos tentat vox illa quae quaerit: «Quid si?» Nolite audire. Deus non est in accusatione. Deus est in illa pace quam Benjamin nunc possidet. Ipse, qui tam sollicitus erat de aliis, sicut illo momento quo avunculo suo William auxilium offerre voluit — non fregit capsulam, non jactavit se, sed simplex et purum cor obtulit — ipse nunc videt fontem omnis amoris. Ben, in sua puritate, non indiget plus quam hoc: ut vos vivatis. Ryan, frater carissime, tu es pars huius testimonii. Cum tu in schola es, cum tu aëroplana spectas, cum tu ridere audes, tu non deseris fratrem tuum; tu illum portas in vita tua. \n\nAudite verba Iesu iterum: «Your redemption is at hand.» Redemptio non est aliquid quod in fine temporum tantum expectamus; est praesentia Christi in dolore vestro hodie. Cum vos, Alan et Thao, sedetis ad mensam, et sella vacua videtur, Christus ibi sedet. Ipse non aufert dolorem, sed eum sanctificat. Ben est in 'Banquet of Heaven.' Ipse, qui tam curiosus erat de technologia et de caelo, nunc in ipso caelo habitat, ubi nec luctus nec clamor est ultra. \n\nNolite timere. Nolite timere mundum qui transit. Mundus, sicut illa Babylon, cadit. Sed amor, quem Benjamin vobis reliquit, est lapis vivus in aedificio Dei. Cum exietis hodie, portate hanc unam rem: certitudinem quod Benjamin non est in tenebris. Ipse est in luce. Ipse vos expectat. Et in hac exspectatione, vos estis tuti. Sicut ille puteus in Cà Mau — 'Giếng Gioan Baotixita' — qui aquam vivam in nomine Ben pauperibus praebet, sic amor vester pergit fluere, tacite, fructificans in saecula saeculorum. Non estis derelicti. Christus est vobiscum, et in manibus eius, Benjamin vos tenet. State recti, quia redemptio vestra, in amore Dei, iam hic est.",
+  "spiritual_communion": "Ad te, Domine Iesu, cor meum elevo. Credo Te in Sanctissimo Sacramento praesentem. Te diligo super omnia et Te desidero in anima mea. Quoniam nunc Te sacramentaliter sumere non possum, veni saltem spiritualiter in cor meum. Tamquam iam acceptum, Te complector et totum me tibi unio. Ne permittas me a Te separari. Amen.",
+  "closing": "Benedicat vos omnipotens Deus, Pater, et Filius, et Spiritus Sanctus. Ite in pace, portantes spem Christi in cordibus vestris.",
+  "petition_call": "Oremus ad Dominum.",
+  "petition_response": "Domine, exaudi orationem nostram.",
+  "labels": {
+    "opening": "Exordium",
+    "penitential": "Actus Paenitentialis",
+    "word": "Liturgia Verbi",
+    "homily": "Homilia",
+    "petitions": "Preces Fidelium",
+    "communion": "Communio Spiritualis",
+    "closing": "Benedictio"
+  },
+  "standing_petitions": [
+    "Pro Benjamin Vo et omnibus qui nos praecesserunt in fide, ut in luce vultus tui aeternaliter requiescant, te rogamus.",
+    "Pro omnibus qui luctu premuntur, ut Deus eis consolationem et spem suam largiatur, te rogamus."
+  ],
+  "readings": [
+    {
+      "label": "Lectio prima",
+      "cite": "Apocalypsis 18, 1-2. 21-23; 19, 1-3. 9a",
+      "text": "Ego, Ioannes, vidi alium angelum descendentem de caelo, habentem potestatem magnam, et terra illuminata est a gloria eius. Et clamavit in fortitudine dicens: «Cecidit, cecidit Babylon magna et facta est habitatio daemoniorum et custodia omnis spiritus immundi et custodia omnis volucris immundae et odibilis». Et sustulit unus angelus fortis lapidem quasi molarem magnum et misit in mare dicens: «Ita impetu mittetur Babylon civitas illa magna et ultra iam non invenietur. Et vox citharoedorum et musicorum et tibia canentium et tuba non audietur in te amplius, et omnis artifex omnis artis non invenietur in te amplius, et vox molae non audietur in te amplius, et lux lucernae non lucebit in te amplius, et vox sponsi et sponsae non audietur in te amplius; quia mercatores tui erant principes terrae, quia in veneficiis tuis erraverunt omnes gentes». Post haec audivi quasi vocem magnam turbarum multarum in caelo dicentium: «Alleluia! Salus et gloria et virtus Deo nostro, quia vera et iusta iudicia eius; quia iudicavit de meretrice magna, quae corrumpit terram in prostitutione sua, et vindicavit sanguinem servorum suorum de manibus eius». Et iterum dixerunt: «Alleluia! Fumus eius ascendit in saecula saeculorum». Et dixit mihi: «Scribe: Beati, qui ad cenam nuptiarum Agni vocati sunt»."
+    },
+    {
+      "label": "Evangelium",
+      "cite": "Lucas 21, 20-28",
+      "text": "In illo tempore: Dixit Iesus discipulis suis: «Cum videritis circumdari ab exercitibus Ierusalem, tunc scitote quia appropinquavit desolatio eius. Tunc, qui in Iudaea sunt, fugiant ad montes; et, qui in medio eius, discedant; et, qui in regionibus, non intrent in eam, quia dies ultionis hi sunt, ut impleantur omnia, quae scripta sunt. Vae autem praegnantibus et nutrientibus in illis diebus; erit enim pressura magna super terram et ira populo huic. Et cadent in ore gladii et captivi ducentur in omnes gentes; et Ierusalem calcabitur a gentibus, donec impleantur tempora nationum. Et erunt signa in sole et luna et stellis, et in terris pressura gentium prae confusione sonitus maris et fluctuum, arescentibus hominibus prae timore et exspectatione, quae supervenient universo orbi; nam virtutes caelorum movebuntur. Et tunc videbunt Filium hominis venientem in nube cum potestate magna et maiestate. His autem fieri incipientibus, respicite et levate capita vestra, quoniam appropinquat redemptio vestra»."
+    }
+  ],
+  "day": "Thursday of the Thirty-fourth Week in Ordinary Time",
+  "date": "2026-11-26",
+  "lang": "la",
+  "segorder": [
+    "opening",
+    "penitential",
+    "word",
+    "homily",
+    "meditation",
+    "petitions",
+    "lordsprayer",
+    "communion",
+    "communionsong",
+    "blessing",
+    "closingsong"
+  ],
+  "pet_prayers": [
+    {
+      "name": "Dad",
+      "text": "I miss you so much Ben! Ba má nhớ con rất nhiều mỗi ngày."
+    },
+    {
+      "name": "",
+      "text": "Nha Trang, ngày 31/10/2026, anh Minh suy nghĩ về Ben rất nhiều. Nhớ và thương em!!!"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - mom and I have been missing you a lot.   Saw you a few times in my dreams last few weeks! Come and say hi daily okay?"
+    },
+    {
+      "name": "",
+      "text": "Thinking of you buddy! Stop by to say hello whenever you can okay? Love you Ben"
+    },
+    {
+      "name": "Dad",
+      "text": "Hey Ben - Been dreaming about you a lot. Hope you're having fun up in heaven. Please look after our family. Remember to come say hi daily. We miss you so much!"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    },
+    {
+      "name": "Dad",
+      "text": "Ben, my sweet boy, I miss you so much. Thank you for visiting me and Chú Chris last night. He told me he saw you flying a helicopter—so free, joyful, and strong up there. Down here, Mom and I are crying more and more each day. A piece of my heart feels completely dead without you, Ben. Please watch over us, pray for your mom, your brother Ryan, and me, and give us the strength to keep going. We love you forever"
+    },
+    {
+      "name": "",
+      "text": "Ben ơi, trong giấc ngủ anh Huy đã thấy Ben về thăm anh, trao cho anh lời cầu nguyện để hai anh em mình lại được tìm thấy nhau. Xin Chúa thương nhậm lời Ben, cho Ben được hưởng ngàn thu bình an bên Chúa. Nếu có thể, xin Ben lại ghé thăm anh trong những giấc mơ tiếp theo nhé, dù chỉ là một lời chào hay một nụ cười thân thương như ngày nào."
+    }
+  ]
+}
